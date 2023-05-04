@@ -14,7 +14,7 @@ local function validateCombat()
     end
 
     return true
-end
+end 
 
 local exclamation = "|TInterface\\OptionsFrame\\UI-OptionsFrame-NewFeatureIcon:0:0:0:-1|t"
 
